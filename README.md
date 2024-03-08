@@ -1,0 +1,1 @@
+# AdaPos5.0-STD-Retail-Automate
