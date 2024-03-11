@@ -1,0 +1,22 @@
+{
+  "name": "adapos5.0-std-retail-automate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdaDevSecOps/AdaPos5.0-STD-Retail-Automate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdaDevSecOps/AdaPos5.0-STD-Retail-Automate/issues"
+  },
+  "homepage": "https://github.com/AdaDevSecOps/AdaPos5.0-STD-Retail-Automate#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.25"
+  }
+}
